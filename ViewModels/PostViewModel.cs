@@ -9,7 +9,7 @@ namespace MVVM_API_SampleProject.ViewModels
 {
     public class PostViewModel
     {
-        public Post Post {  get; set; }
+        public Post Post { get; set; }
 
         public PostViewModel()
         {
