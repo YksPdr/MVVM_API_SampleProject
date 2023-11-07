@@ -15,7 +15,7 @@ namespace MVVM_API_SampleProject.ViewModels
         {
             ToDo = new ToDo()
             {
-                NomeTarefa = "TEST",
+                NomeTarefa = "Lavar a louça",
                 IdTarefa = 1,
                 TitleTarefa = "Titulo",
                 BodyTarefa = "Texto"

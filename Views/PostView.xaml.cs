@@ -3,17 +3,11 @@ using MVVM_API_SampleProject.ViewModels;
 
 namespace MVVM_API_SampleProject.Views;
 
-public partial class ToDoView : ContentPage
+public partial class PostView : ContentPage
 {
-	public ToDoView()
-
-
-
-
-
-
+	public PostView()
 	{
 		InitializeComponent();
-		BindingContext = new ToDoViewModel();
+		BindingContext = new PostViewModel();
 	}
 }
